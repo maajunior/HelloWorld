@@ -1,0 +1,4 @@
+Errata:
+
+No minutio 9:22 da Aula 23 o resultado da aplicação do método replace('a', 'A') sobre a String "animal" é "AnimAl",
+ou seja, as duas ocorrências da letra a em minúsculo são substituídas.
